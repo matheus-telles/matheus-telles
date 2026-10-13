@@ -1,6 +1,6 @@
 ### Olá, eu sou o Matheus 👋
 
-Estudante de Engenharia de Computação na UFMG, trabalhando com suporte técnico e automação na HCF Network Tecnologia. Gosto de transformar dados e processos manuais em ferramentas simples de usar: de análises estatísticas em Python a protótipos web e automações com IA.
+Estudante de Engenharia de Computação na UFMG. Meu foco é cibersegurança: hoje construo a base em redes e infraestrutura no suporte técnico da HCF Network Tecnologia e uso programação para automatizar o que é repetitivo.
 
 🌐 **Portfólio:** [matheus-telles.github.io](https://matheus-telles.github.io/) · 📄 **Currículo:** [PDF](https://matheus-telles.github.io/curriculo.pdf) ([English](https://matheus-telles.github.io/curriculo-en.pdf))
 
@@ -19,4 +19,4 @@ Python · Jupyter · Matplotlib · SciPy · HTML · CSS · JavaScript · PHP · 
 
 [LinkedIn](https://www.linkedin.com/in/matheus-telles-32a8b126a/) · [matheussltmadureira@gmail.com](mailto:matheussltmadureira@gmail.com)
 
-<sub>🇺🇸 Computer Engineering student at UFMG (Brazil) working on technical support and automation. Portfolio in English: [matheus-telles.github.io/?lang=en](https://matheus-telles.github.io/?lang=en)</sub>
+<sub>🇺🇸 Computer Engineering student at UFMG (Brazil) focused on cybersecurity, currently building a networking and infrastructure foundation in technical support. Portfolio in English: [matheus-telles.github.io/?lang=en](https://matheus-telles.github.io/?lang=en)</sub>
