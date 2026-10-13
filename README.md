@@ -13,7 +13,7 @@ Estudante de Engenharia de Computação na UFMG. Meu foco é cibersegurança. Tr
 
 #### Tecnologias
 
-Python · Jupyter · Matplotlib · SciPy · HTML · CSS · JavaScript · PHP · Django · Flask · Docker · C · Java
+Python · Jupyter · Matplotlib · SciPy · HTML · CSS · JavaScript · PHP · Django · Docker · C · Java
 
 #### Contato
 
