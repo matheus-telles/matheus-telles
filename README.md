@@ -17,6 +17,6 @@ Python · Jupyter · Matplotlib · SciPy · HTML · CSS · JavaScript · PHP · 
 
 #### Contato
 
-[LinkedIn](https://www.linkedin.com/in/matheus-telles-32a8b126a/) · [Hack The Box](https://profile.hackthebox.com/profile/01a1359f-83aa-710c-aaf2-6a4d63f4fa4c) · [matheussltmadureira@gmail.com](mailto:matheussltmadureira@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/matheussltelles/) · [Hack The Box](https://profile.hackthebox.com/profile/01a1359f-83aa-710c-aaf2-6a4d63f4fa4c) · [matheussltmadureira@gmail.com](mailto:matheussltmadureira@gmail.com)
 
 <sub>🇺🇸 Computer Engineering student at UFMG (Brazil) focused on cybersecurity, working in technical support and networking. Portfolio in English: [matheus-telles.github.io/?lang=en](https://matheus-telles.github.io/?lang=en)</sub>
